@@ -1,1 +1,1 @@
-# Book_Exchange_management
+The Book Exchange Management System is a web-based platform that facilitates the exchange of books among users. The system provides a convenient way for book enthusiasts to list their books for exchange and connect with others to request books they are interested in.
